@@ -3,7 +3,7 @@
 ## About
 This is a web app demo version written in Python-Flask for the back end and React-JS for the front end and using Postgresql as a database to show the data input/output from an AI optimization module.
 
-## Techonology used
+## Technology used
 1. Back-End: Flask + SQLAlchemy
 2. Front-End: React.js + Boostrapt
 3. Database: Postgresql 12 + pgAdmin 4
