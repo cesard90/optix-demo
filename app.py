@@ -13,7 +13,7 @@ app = Flask(__name__)
 CORS(app)
 
 engine = create_engine(
-    "postgres://postgres:darklol1@localhost:5432/postgres"
+    "postgres://postgres:password@localhost:5432/postgres"
 )
 Base.metadata.bind = engine
 
