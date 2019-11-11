@@ -1,19 +1,19 @@
 # Web app for OPTIX
 
 ## About
-This is a web app demo version written in Python-Flask for the back end and React-JS for the front end and using postgres as a database to show the data input/output from an AI optimization module.
+This is a web app demo version written in Python-Flask for the back end and React-JS for the front end and using Postgresql as a database to show the data input/output from an AI optimization module.
 
 ## Techonology used
 1. Back-End: Flask + SQLAlchemy
 2. Front-End: React.js + Boostrapt
-3. Database: Postgres 12 + pgAdmin 4
+3. Database: Postgresql 12 + pgAdmin 4
 4. IDE: VS code
 
 ## Instructions
 Below are the installing and running procedues
 ### Installing
-1. Make sure you have python, npm, pip, postgres and pgAdmin 4 (or another sql to connect db and run scripts) installed on the target machine. (IMPORTANT)
-For this project, I used : **npm v5.5.1**, **pip v19.2.3**, **python v3.7.5**, **postgres 12**
+1. Make sure you have python, npm, pip, postgresql and pgAdmin 4 (or another sql to connect db and run scripts) installed on the target machine. (IMPORTANT)
+For this project, I used : **npm v5.5.1**, **pip v19.2.3**, **python v3.7.5**, **postgresql 12**
 2. Open pgAdmin 4 and run files inside /Scripts folder:
    1. Objects.sql
    2. Inserts.sql
