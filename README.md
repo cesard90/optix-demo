@@ -29,15 +29,15 @@ For this project, I used : **npm v5.5.1**, **pip v19.2.3**, **python v3.7.5**, *
 3. If all is working correctly, you will be given an address http://127.0.0.1:3000/ 
 ### Some screenshots
 1. Home Page 
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/cesard90/optix-demo/master/images/1.%20Welcome.png?token=ACAIXJL7FYR7KUIQMPU2NUK5ZDC4O)
 2. Machine List
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/cesard90/optix-demo/master/images/2.%20Machines.png?token=ACAIXJIX5QJRMMEOUOTQQOC5ZDC6U)
 3. Job List
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/cesard90/optix-demo/master/images/3%20.Jobs.png?token=ACAIXJODDDYAH3OQLLVIGDS5ZDC64)
 4. Job Detail
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/cesard90/optix-demo/master/images/4.%20JobDetail.png?token=ACAIXJMVTKY7WKNVDHHU2O25ZDC7C)
 5. New Job - Postman
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/cesard90/optix-demo/master/images/5.%20New%20Job.png?token=ACAIXJLSJFSAKIQ3QJ4RXES5ZDC7O)
 
 ## Thank you!
 I will be greatfull if you give me your feedback about my implementation to *cesard90@gmail.com*
