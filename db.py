@@ -66,7 +66,7 @@ class Taskqueue(Base):
 
 
 engine = create_engine(
-    "postgres://postgres:darklol1@localhost:5432/postgres"
+    "postgres://postgres:password@localhost:5432/postgres"
 )
 
 Base.metadata.create_all(engine)
